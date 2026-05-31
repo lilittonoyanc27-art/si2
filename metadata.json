@@ -1,0 +1,6 @@
+{
+  "name": "Իսպաներենի Ապառնի Ժամանակ — Futuro App",
+  "description": "Ինտերակտիվ իսպաներենի ապառնի ժամանակի (ir a + infinitivo) ուսուցման ծրագիր՝ 6 անհատական խաղերով, ընթերցանության տեքստով և 2 երկխաղացողանոց խաղերով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
